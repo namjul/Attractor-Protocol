@@ -1,0 +1,7 @@
+schema: attractor-protocol
+context: |
+  This is the Attractor Protocol repository itself.
+  Changes here are to methodology documentation, schema templates,
+  and integration tooling — not application code.
+  Gestures target the protocol's own centers:
+  clarity of concepts, epistemic discipline, usability of tools.
