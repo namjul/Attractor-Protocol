@@ -2,6 +2,19 @@
 
 A methodology for software development that treats systems as living structures and demands epistemic discipline to prevent mythology from masquerading as engineering.
 
+TLDR
+┌─────────────────────────────────────────────────────────────┐
+│                  Attractor Protocol Flow                    │
+├─────────────────────────────────────────────────────────────┤
+│  1. gesture.md → Make a falsifiable claim                   │
+│  2. contact-test.md → Define how to test the claim          │
+│  3. design.md → Technical approach (when needed)            │
+│  4. tasks.md → Motion: implementation steps                 │
+│  5. apply → Execute motion + back-propagate specs/          │
+│  6. evidence.md → Contact test results & learning           │
+│  7. archive → Accumulate learned schema to openspec/specs/ │
+└─────────────────────────────────────────────────────────────┘
+
 ## The problem it solves
 
 AI coding assistants are powerful but they generate confident-sounding plans
